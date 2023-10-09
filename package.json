@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Drinkify/",
+    "build": "vite build --base=/js_89_KaterynaZhuvak/",
     "preview": "vite preview"
   },
   "devDependencies": {
